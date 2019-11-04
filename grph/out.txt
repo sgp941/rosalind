@@ -1,0 +1,302 @@
+Rosalind_1151 Rosalind_5158 
+
+Rosalind_8614 Rosalind_5948 
+
+Rosalind_1598 Rosalind_6323 
+
+Rosalind_1598 Rosalind_5411 
+
+Rosalind_1598 Rosalind_2029 
+
+Rosalind_1598 Rosalind_7152 
+
+Rosalind_1070 Rosalind_2798 
+
+Rosalind_1179 Rosalind_8416 
+
+Rosalind_7400 Rosalind_6323 
+
+Rosalind_7400 Rosalind_5411 
+
+Rosalind_7400 Rosalind_2029 
+
+Rosalind_7400 Rosalind_7152 
+
+Rosalind_0257 Rosalind_1783 
+
+Rosalind_2324 Rosalind_5948 
+
+Rosalind_3815 Rosalind_2798 
+
+Rosalind_2815 Rosalind_6358 
+
+Rosalind_3608 Rosalind_1576 
+
+Rosalind_3608 Rosalind_6784 
+
+Rosalind_9330 Rosalind_1346 
+
+Rosalind_8052 Rosalind_8614 
+
+Rosalind_8052 Rosalind_9430 
+
+Rosalind_4614 Rosalind_5047 
+
+Rosalind_4614 Rosalind_1383 
+
+Rosalind_0562 Rosalind_5047 
+
+Rosalind_0562 Rosalind_1383 
+
+Rosalind_7271 Rosalind_4887 
+
+Rosalind_7271 Rosalind_8564 
+
+Rosalind_7271 Rosalind_9758 
+
+Rosalind_6591 Rosalind_8063 
+
+Rosalind_6591 Rosalind_2084 
+
+Rosalind_6591 Rosalind_3230 
+
+Rosalind_6591 Rosalind_9510 
+
+Rosalind_3568 Rosalind_1151 
+
+Rosalind_5948 Rosalind_9470 
+
+Rosalind_5604 Rosalind_2569 
+
+Rosalind_5604 Rosalind_9742 
+
+Rosalind_5604 Rosalind_2307 
+
+Rosalind_2100 Rosalind_5102 
+
+Rosalind_2100 Rosalind_2366 
+
+Rosalind_5810 Rosalind_7146 
+
+Rosalind_1576 Rosalind_9470 
+
+Rosalind_1411 Rosalind_1598 
+
+Rosalind_1411 Rosalind_9173 
+
+Rosalind_1411 Rosalind_4240 
+
+Rosalind_0721 Rosalind_0562 
+
+Rosalind_0721 Rosalind_3985 
+
+Rosalind_0721 Rosalind_9299 
+
+Rosalind_0721 Rosalind_2812 
+
+Rosalind_0498 Rosalind_1936 
+
+Rosalind_5047 Rosalind_8056 
+
+Rosalind_5047 Rosalind_4523 
+
+Rosalind_6189 Rosalind_7146 
+
+Rosalind_3847 Rosalind_9470 
+
+Rosalind_6313 Rosalind_2569 
+
+Rosalind_6313 Rosalind_9742 
+
+Rosalind_6313 Rosalind_2307 
+
+Rosalind_9007 Rosalind_8756 
+
+Rosalind_0634 Rosalind_8756 
+
+Rosalind_2798 Rosalind_1731 
+
+Rosalind_2569 Rosalind_2935 
+
+Rosalind_2569 Rosalind_6591 
+
+Rosalind_2569 Rosalind_9925 
+
+Rosalind_2569 Rosalind_0177 
+
+Rosalind_5158 Rosalind_2798 
+
+Rosalind_5411 Rosalind_9470 
+
+Rosalind_7050 Rosalind_2935 
+
+Rosalind_7050 Rosalind_6591 
+
+Rosalind_7050 Rosalind_9925 
+
+Rosalind_7050 Rosalind_0177 
+
+Rosalind_1936 Rosalind_1179 
+
+Rosalind_1936 Rosalind_7400 
+
+Rosalind_1936 Rosalind_6189 
+
+Rosalind_5740 Rosalind_1731 
+
+Rosalind_3141 Rosalind_9330 
+
+Rosalind_9173 Rosalind_2798 
+
+Rosalind_6358 Rosalind_0634 
+
+Rosalind_6172 Rosalind_2960 
+
+Rosalind_4707 Rosalind_8756 
+
+Rosalind_8063 Rosalind_1936 
+
+Rosalind_2029 Rosalind_5604 
+
+Rosalind_4958 Rosalind_1731 
+
+Rosalind_4240 Rosalind_7271 
+
+Rosalind_9742 Rosalind_2569 
+
+Rosalind_9742 Rosalind_2307 
+
+Rosalind_1615 Rosalind_9330 
+
+Rosalind_9925 Rosalind_1346 
+
+Rosalind_5331 Rosalind_6323 
+
+Rosalind_5331 Rosalind_5411 
+
+Rosalind_5331 Rosalind_2029 
+
+Rosalind_5331 Rosalind_7152 
+
+Rosalind_7150 Rosalind_0562 
+
+Rosalind_7150 Rosalind_3985 
+
+Rosalind_7150 Rosalind_9299 
+
+Rosalind_7150 Rosalind_2812 
+
+Rosalind_4665 Rosalind_1576 
+
+Rosalind_4665 Rosalind_6784 
+
+Rosalind_7152 Rosalind_2100 
+
+Rosalind_7152 Rosalind_1615 
+
+Rosalind_2084 Rosalind_8222 
+
+Rosalind_8564 Rosalind_6172 
+
+Rosalind_8564 Rosalind_6149 
+
+Rosalind_7367 Rosalind_5102 
+
+Rosalind_7367 Rosalind_2366 
+
+Rosalind_3230 Rosalind_8222 
+
+Rosalind_0177 Rosalind_0257 
+
+Rosalind_0177 Rosalind_7367 
+
+Rosalind_0177 Rosalind_8514 
+
+Rosalind_8514 Rosalind_2487 
+
+Rosalind_6149 Rosalind_1151 
+
+Rosalind_5672 Rosalind_3608 
+
+Rosalind_5672 Rosalind_9403 
+
+Rosalind_5672 Rosalind_3480 
+
+Rosalind_5672 Rosalind_7347 
+
+Rosalind_8416 Rosalind_0562 
+
+Rosalind_8416 Rosalind_3985 
+
+Rosalind_8416 Rosalind_9299 
+
+Rosalind_8416 Rosalind_2812 
+
+Rosalind_8756 Rosalind_3141 
+
+Rosalind_8756 Rosalind_4824 
+
+Rosalind_8756 Rosalind_5331 
+
+Rosalind_5102 Rosalind_2798 
+
+Rosalind_2366 Rosalind_0708 
+
+Rosalind_9299 Rosalind_8052 
+
+Rosalind_9299 Rosalind_4614 
+
+Rosalind_9299 Rosalind_5740 
+
+Rosalind_8222 Rosalind_1731 
+
+Rosalind_1373 Rosalind_2815 
+
+Rosalind_1373 Rosalind_6358 
+
+Rosalind_1383 Rosalind_1151 
+
+Rosalind_1381 Rosalind_0721 
+
+Rosalind_6784 Rosalind_3608 
+
+Rosalind_6784 Rosalind_9403 
+
+Rosalind_6784 Rosalind_3480 
+
+Rosalind_6784 Rosalind_7347 
+
+Rosalind_7146 Rosalind_3141 
+
+Rosalind_7146 Rosalind_4824 
+
+Rosalind_7146 Rosalind_5331 
+
+Rosalind_9403 Rosalind_1411 
+
+Rosalind_9403 Rosalind_3847 
+
+Rosalind_9403 Rosalind_7050 
+
+Rosalind_9403 Rosalind_4707 
+
+Rosalind_1346 Rosalind_2815 
+
+Rosalind_1346 Rosalind_6358 
+
+Rosalind_2307 Rosalind_8056 
+
+Rosalind_2307 Rosalind_4523 
+
+Rosalind_2812 Rosalind_2487 
+
+Rosalind_2960 Rosalind_5158 
+
+Rosalind_9758 Rosalind_8052 
+
+Rosalind_9758 Rosalind_4614 
+
+Rosalind_9758 Rosalind_5740 
+
+Rosalind_7347 Rosalind_1346 
+
