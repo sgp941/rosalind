@@ -3,7 +3,7 @@
 Platform for learning bioinformatics through solving problems
 
 | ID | Title | Problem | Solution|
-| --- | --- | --- | --- |
+| :---: | --- | :---: | :---: |
 | dna | Counting DNA nucleotides | [link](http://rosalind.info/problems/dna/) | [link] |
 | rna | Transcribing DNA to RNA | [link](http://rosalind.info/problems/rna/) | [link] |
 | revc | Complementing a strand of DNA | [link](http://rosalind.info/problems/revc/) | [link] |
