@@ -1,6 +1,6 @@
 # Rosalind
 
-Platform for learning bioinformatics through solving problems
+Platform for learning bioinformatics through problem solving
 
 | ID | Title | Problem | Solution|
 | :---: | --- | :---: | :---: |
@@ -9,7 +9,7 @@ Platform for learning bioinformatics through solving problems
 | revc | Complementing a strand of DNA | [link](http://rosalind.info/problems/revc/) | [link] |
 | fib |  Rabbits and recurrence relations | [link](http://rosalind.info/problems/fib/) | [link] |
 | gc | Computing GC content | [link](http://rosalind.info/problems/gc/) | [link](https://github.com/sgp941/rosalind/blob/master/gc/main.py) |
-| hamm | Counting point mutations | [link](http://rosalind.info/problems/hamm/) | [link](https://github.com/sgp941/rosalind/blob/master/hsmm/main.py) |
+| hamm | Counting point mutations | [link](http://rosalind.info/problems/hamm/) | [link](https://github.com/sgp941/rosalind/blob/master/hamm/main.py) |
 | iprb | Mendel's first law | [link](http://rosalind.info/problems/iprb/) | [link](https://github.com/sgp941/rosalind/blob/master/iprb/main.py) |
 | prot | Translating RNA into protein | [link](http://rosalind.info/problems/prot/) | [link](https://github.com/sgp941/rosalind/blob/master/prot/main.py) |
 | subs | Finding a motif in DNA | [link](http://rosalind.info/problems/subs/) | [link](https://github.com/sgp941/rosalind/blob/master/subs/main.py) |
